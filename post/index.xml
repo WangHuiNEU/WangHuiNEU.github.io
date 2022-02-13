@@ -6,7 +6,16 @@
     <description>Recent content in Posts on ProtrinAI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://WangHuiNEU.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://WangHuiNEU.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alphafold2 讲解（1）</title>
+      <link>https://WangHuiNEU.github.io/AlphaFold2/knowledge/1/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://WangHuiNEU.github.io/AlphaFold2/knowledge/1/</guid>
+      <description>这是Alphafold2讲解的开篇文章，后续文章将对Alphafold2的每一个知识点深入的挖掘下去 Alphafold2 Highly accuracy protein structure prediction with Alphafold [TOC] 1. 导论 https://www.nature.com/articles/s41586-021-03819-2 2021/7/15 DeepMi</description>
+    </item>
+    
     <item>
       <title>Clean White Theme for Hugo</title>
       <link>https://WangHuiNEU.github.io/post/readme/</link>
@@ -263,15 +272,6 @@ export HTTPS_PROXY=&amp;quot;http://127.0.0.1:3128/&amp;quot;
       
       <guid>https://WangHuiNEU.github.io/2017/11/03/hello-world/</guid>
       <description>“Yeah It&amp;rsquo;s on. ” Hello World!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://WangHuiNEU.github.io/post/2022-02-07-highly-accuracy-protein-structure-prediction-with-alphafold/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://WangHuiNEU.github.io/post/2022-02-07-highly-accuracy-protein-structure-prediction-with-alphafold/</guid>
-      <description>Alphafold2 讲解（1） 这是Alphafold2讲解的开篇文章，后续文章将对Alphafold2的每一个知识点深入的挖掘下去 Alphafold2 Highly accuracy protein structure prediction with Alphafold [TOC] 1. 导论 https://www.nature.com/articles/s41586-021-03819-2 2021/7/15</description>
     </item>
     
   </channel>

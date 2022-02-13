@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://WangHuiNEU.github.io/post/readme/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <loc>https://WangHuiNEU.github.io/AlphaFold2/knowledge/1/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://WangHuiNEU.github.io/post/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://WangHuiNEU.github.io/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://WangHuiNEU.github.io/post/readme/</loc>
     <lastmod>2019-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://WangHuiNEU.github.io/categories/</loc>
@@ -136,8 +139,6 @@
   </url><url>
     <loc>https://WangHuiNEU.github.io/2017/11/03/hello-world/</loc>
     <lastmod>2017-11-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://WangHuiNEU.github.io/post/2022-02-07-highly-accuracy-protein-structure-prediction-with-alphafold/</loc>
   </url><url>
     <loc>https://WangHuiNEU.github.io/search/placeholder/</loc>
   </url><url>
