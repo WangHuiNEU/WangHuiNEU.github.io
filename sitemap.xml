@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://WangHuiNEU.github.io/tags/alphafold2/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://WangHuiNEU.github.io/AlphaFold2/knowledge/1/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://WangHuiNEU.github.io/post/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://WangHuiNEU.github.io/tags/protein/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://WangHuiNEU.github.io/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://WangHuiNEU.github.io/post/readme/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <loc>https://WangHuiNEU.github.io/tags/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://WangHuiNEU.github.io/search/placeholder/</loc>
   </url><url>
@@ -25,8 +31,6 @@
     <loc>https://WangHuiNEU.github.io/top/archive/</loc>
   </url><url>
     <loc>https://WangHuiNEU.github.io/search/</loc>
-  </url><url>
-    <loc>https://WangHuiNEU.github.io/tags/</loc>
   </url><url>
     <loc>https://WangHuiNEU.github.io/top/</loc>
   </url>
