@@ -32,8 +32,6 @@
   </url><url>
     <loc>https://wanghuineu.github.io/top/books/</loc>
   </url><url>
-    <loc>https://wanghuineu.github.io/find/website/2/</loc>
-  </url><url>
     <loc>https://wanghuineu.github.io/categories/find/</loc>
   </url><url>
     <loc>https://wanghuineu.github.io/top/archive/</loc>
@@ -45,5 +43,7 @@
     <loc>https://wanghuineu.github.io/tags/website/</loc>
   </url><url>
     <loc>https://wanghuineu.github.io/find/website/1/</loc>
+  </url><url>
+    <loc>https://wanghuineu.github.io/find/website/2/</loc>
   </url>
 </urlset>
