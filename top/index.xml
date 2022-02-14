@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tops on ProtrinAI</title>
-    <link>https://WangHuiNEU.github.io/top/</link>
+    <link>https://wanghuineu.github.io/top/</link>
     <description>Recent content in Tops on ProtrinAI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://WangHuiNEU.github.io/top/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://wanghuineu.github.io/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://WangHuiNEU.github.io/top/about/</link>
+      <link>https://wanghuineu.github.io/top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://WangHuiNEU.github.io/top/about/</guid>
+      <guid>https://wanghuineu.github.io/top/about/</guid>
       <description>人类的祖先第一次仰望星空,已对宇宙表现出了充分的好奇,而当生命意识到宇宙奥秘的存在时,距它最终解开这个奥秘只有一步之遥了。——《朝闻道》 研究</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://WangHuiNEU.github.io/top/books/</link>
+      <link>https://wanghuineu.github.io/top/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://WangHuiNEU.github.io/top/books/</guid>
+      <guid>https://wanghuineu.github.io/top/books/</guid>
       <description>Machine Learning 1. PyTorch 读懂源码 从底层代码出发解读PyTorch https://www.zhihu.com/column/c_168997414 Protein 1. AlphaFold2 讲解 解读AlphaFold2的代码 Alphafold2 讲解 - 知乎 (zhihu.com) 2. 蛋白质+AI 一些零碎的Protei</description>
     </item>
     
     <item>
       <title>Posts Archive</title>
-      <link>https://WangHuiNEU.github.io/top/archive/</link>
+      <link>https://wanghuineu.github.io/top/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://WangHuiNEU.github.io/top/archive/</guid>
+      <guid>https://wanghuineu.github.io/top/archive/</guid>
       <description></description>
     </item>
     
