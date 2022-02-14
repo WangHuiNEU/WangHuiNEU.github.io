@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AlphaFold2 on ProtrinAI</title>
+    <title>AlphaFold2 on ProteinAI</title>
     <link>https://wanghuineu.github.io/tags/alphafold2/</link>
-    <description>Recent content in AlphaFold2 on ProtrinAI</description>
+    <description>Recent content in AlphaFold2 on ProteinAI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wanghuineu.github.io/tags/alphafold2/index.xml" rel="self" type="application/rss+xml" />

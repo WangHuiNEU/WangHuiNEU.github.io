@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ProtrinAI</title>
+    <title>Posts on ProteinAI</title>
     <link>https://wanghuineu.github.io/post/</link>
-    <description>Recent content in Posts on ProtrinAI</description>
+    <description>Recent content in Posts on ProteinAI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wanghuineu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,24 @@
       
       <guid>https://wanghuineu.github.io/AlphaFold2/knowledge/1/</guid>
       <description>这是Alphafold2讲解的开篇文章，后续文章将对Alphafold2的每一个知识点深入的挖掘下去 Alphafold2 Highly accuracy protein structure prediction with Alphafold 1. 导论 https://www.nature.com/articles/s41586-021-03819-2 2021/7/15 DeepMin</description>
+    </item>
+    
+    <item>
+      <title>AlphaFold2相关讲解</title>
+      <link>https://wanghuineu.github.io/find/website/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wanghuineu.github.io/find/website/2/</guid>
+      <description>1. 在线图片 将图片转为http形式 https://postimages.org/ 2. BOOKMARKS 1. unsplash https://unsplash.com/ 2. pexels https://www.pexels.com/zh-cn/ 3. nature https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2020/Winners</description>
+    </item>
+    
+    <item>
+      <title>图片网站收藏</title>
+      <link>https://wanghuineu.github.io/find/website/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wanghuineu.github.io/find/website/1/</guid>
+      <description>#biliplayer { width: 100%; height: 600px; } @media only screen and (min-device-width: 320px) and (max-device-width: 480px) { #biliplayer { width: 100%; height: 250px; } } #biliplayer { width: 100%; height: 600px; } @media only screen and (min-device-width: 320px) and (max-device-width: 480px) { #biliplayer { width: 100%; height: 250px; } } https://www.bilibili.com/video/BV1fm4y1D7Wz?share_source=copy_web</description>
     </item>
     
   </channel>

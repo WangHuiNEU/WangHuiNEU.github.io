@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ProtrinAI</title>
+    <title>Categories on ProteinAI</title>
     <link>https://wanghuineu.github.io/categories/</link>
-    <description>Recent content in Categories on ProtrinAI</description>
+    <description>Recent content in Categories on ProteinAI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wanghuineu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -13,6 +13,15 @@
       <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://wanghuineu.github.io/categories/alphafold2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FIND</title>
+      <link>https://wanghuineu.github.io/categories/find/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wanghuineu.github.io/categories/find/</guid>
       <description></description>
     </item>
     
