@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wanghuineu.github.io/categories/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wanghuineu.github.io/categories/find/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wanghuineu.github.io/post/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wanghuineu.github.io/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wanghuineu.github.io/tags/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wanghuineu.github.io/tags/website/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wanghuineu.github.io/find/website/3/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wanghuineu.github.io/find/website/1/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wanghuineu.github.io/find/website/2/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://wanghuineu.github.io/tags/alphafold2/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,19 +38,7 @@
     <loc>https://wanghuineu.github.io/AlphaFold2/knowledge/1/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wanghuineu.github.io/categories/</loc>
-    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wanghuineu.github.io/post/</loc>
-    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://wanghuineu.github.io/tags/protein/</loc>
-    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wanghuineu.github.io/</loc>
-    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wanghuineu.github.io/tags/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wanghuineu.github.io/search/placeholder/</loc>
@@ -32,20 +47,10 @@
   </url><url>
     <loc>https://wanghuineu.github.io/top/books/</loc>
   </url><url>
-    <loc>https://wanghuineu.github.io/categories/find/</loc>
-  </url><url>
     <loc>https://wanghuineu.github.io/top/archive/</loc>
   </url><url>
     <loc>https://wanghuineu.github.io/search/</loc>
   </url><url>
     <loc>https://wanghuineu.github.io/top/</loc>
-  </url><url>
-    <loc>https://wanghuineu.github.io/tags/website/</loc>
-  </url><url>
-    <loc>https://wanghuineu.github.io/find/website/1/</loc>
-  </url><url>
-    <loc>https://wanghuineu.github.io/find/website/2/</loc>
-  </url><url>
-    <loc>https://wanghuineu.github.io/find/website/3/</loc>
   </url>
 </urlset>
