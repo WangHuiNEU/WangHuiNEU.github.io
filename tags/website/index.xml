@@ -24,5 +24,14 @@
       <description>1. AlphaFold2 讲解 【水木未来科技】 基于AI预测蛋白质折叠的三维空间结构——AlphaFold2原理及安装使用 #biliplayer { width: 100%; height: 600px; } @media only screen and (min-device-width: 320px) and (max-device-width: 480px) { #biliplayer { width: 100%;</description>
     </item>
     
+    <item>
+      <title>蛋白质结构预测网站</title>
+      <link>https://wanghuineu.github.io/find/website/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wanghuineu.github.io/find/website/3/</guid>
+      <description>1. CASP https://predictioncenter.org/casp14/index.cgi Critical Assessment of Techniques for Protein Structure Prediction CASP15 将会在2022年5月到8月举行 Discussion of the prediction categories for the upcoming experiment is currently happening at the DISCORD platform. 2. CAMEO https://www.cameo3d.org/ continuously evaluate the accuracy and reliability of predictions</description>
+    </item>
+    
   </channel>
 </rss>
